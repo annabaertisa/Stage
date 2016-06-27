@@ -1,0 +1,53 @@
+<?php 
+		session_start()
+?>
+
+<html>
+	<head>
+		<meta charset = "UTF-8">
+		<style text ="css">
+		
+		h1 
+		
+		{
+			text-align : center;
+			color: black;
+			font = arial; 
+		}
+		
+		div 
+		
+		{
+			position: relative;
+			left: 20px;
+		}
+	
+		</style>
+		
+		<h1>
+		Connexion au portail
+		</h1>
+		
+		
+		<body>
+		
+			<form method = POST action = "test_connexion_eleve.php">
+			Login : 
+			<br>
+			<div>
+				<input type = text name = 'login'>
+			</div>
+			</br>
+			
+			Mot de passe: 
+			<br>
+			<div>
+				<input type = text name = 'mdp'> 
+			</div>
+			</br>
+			
+				<input type = submit value = Connexion>
+			</form>
+		</body>
+</html>		
+		

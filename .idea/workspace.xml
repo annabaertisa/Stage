@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f009d35-bd13-44e2-86fd-c863c6ba6b07" name="Default" comment="" />
+    <ignored path="Stage.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Stage" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Forum/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="53" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Forum/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding>
+                <element signature="e#1991#2109#0#PHP" expanded="false" />
+                <marker date="1467032322322" expanded="true" signature="747:912" ph="select count... pm" />
+                <marker date="1467032322322" expanded="true" signature="2158:2431" ph="select c.id,... categories" />
+                <marker date="1467032322322" expanded="true" signature="2207:2274" ph="select count... topics" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Professeur/Connexion/Test_connexion.php" />
+        <option value="$PROJECT_DIR$/Professeur/Suppression/Suppression.php" />
+        <option value="$PROJECT_DIR$/Professeur/Connexion/test_login.php" />
+        <option value="$PROJECT_DIR$/Professeur/Modification/Modifi_formulaire.php" />
+        <option value="$PROJECT_DIR$/Professeur/Modification/Modif_Prof.php" />
+        <option value="$PROJECT_DIR$/Forum/Message Forum/Creation_forum.php" />
+        <option value="$PROJECT_DIR$/Forum/Message Forum/Reponse_Forum.php" />
+        <option value="$PROJECT_DIR$/Forum/Acces/Acces_Forum.php" />
+        <option value="$PROJECT_DIR$/Forum/Acces/Forum.php" />
+        <option value="$PROJECT_DIR$/Forum/Structure/Formulaire_forum.php" />
+        <option value="$PROJECT_DIR$/Forum/Formulaire_forum/Form_Forum.php" />
+        <option value="$PROJECT_DIR$/Forum/envoie_forum.php" />
+        <option value="$PROJECT_DIR$/Forum/Formulaire_forum/envoie_forum.php" />
+        <option value="$PROJECT_DIR$/Forum/Formulaire_forum/Forum.php" />
+        <option value="$PROJECT_DIR$/Professeur/Inscription/test_login_prof.php" />
+        <option value="$PROJECT_DIR$/ForumEssais/conifg.php" />
+        <option value="$PROJECT_DIR$/Professeur/Inscription/InscriptionProf.php" />
+        <option value="$PROJECT_DIR$/Forum/Formulaire_forum/Envois_Message_Forum.php" />
+        <option value="$PROJECT_DIR$/Fonction/ConnectionBase.php" />
+        <option value="$PROJECT_DIR$/Forum/Formulaire_forum/Reponse.php" />
+        <option value="$PROJECT_DIR$/stagetest.sql" />
+        <option value="$PROJECT_DIR$/Forum/Formulaire_forum/Acces_Forum.php" />
+        <option value="$PROJECT_DIR$/ForumEssais/lire_sujet.php" />
+        <option value="$PROJECT_DIR$/Professeur/Connexion/Connexion_prof.html" />
+        <option value="$PROJECT_DIR$/ForumEssais/insert_sujet.php" />
+        <option value="$PROJECT_DIR$/ForumEssais/insert_reponse.php" />
+        <option value="$PROJECT_DIR$/Maquette accueil/Accueil.php" />
+        <option value="$PROJECT_DIR$/Maquette accueil/donnee.php" />
+        <option value="$PROJECT_DIR$/Maquette accueil/Acceuil.php" />
+        <option value="$PROJECT_DIR$/ForumEssais/index.php" />
+        <option value="$PROJECT_DIR$/Forum/delete_category.php" />
+        <option value="$PROJECT_DIR$/Forum/delete_topic.php" />
+        <option value="$PROJECT_DIR$/Forum/edit_category.php" />
+        <option value="$PROJECT_DIR$/Forum/edit_message.php" />
+        <option value="$PROJECT_DIR$/Forum/edit_profile.php" />
+        <option value="$PROJECT_DIR$/Forum/init.php" />
+        <option value="$PROJECT_DIR$/Forum/list_pm.php" />
+        <option value="$PROJECT_DIR$/Forum/list_topics.php" />
+        <option value="$PROJECT_DIR$/Forum/login.php" />
+        <option value="$PROJECT_DIR$/Forum/move_category.php" />
+        <option value="$PROJECT_DIR$/Forum/new_category.php" />
+        <option value="$PROJECT_DIR$/Forum/new_pm.php" />
+        <option value="$PROJECT_DIR$/Forum/new_reply.php" />
+        <option value="$PROJECT_DIR$/Forum/new_topic.php" />
+        <option value="$PROJECT_DIR$/Forum/profile.php" />
+        <option value="$PROJECT_DIR$/Forum/read_pm.php" />
+        <option value="$PROJECT_DIR$/Forum/read_topic.php" />
+        <option value="$PROJECT_DIR$/Forum/signup.php" />
+        <option value="$PROJECT_DIR$/Forum/users.php" />
+        <option value="$PROJECT_DIR$/Forum/config.php" />
+        <option value="$PROJECT_DIR$/Forum/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="793" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpRedundantClosingTagInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Forum" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Forum" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fonction" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annabelle\PhpstormProjects\Stage\Professeur\Inscription" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.envoie_forum.php">
+    <configuration default="false" name="InscriptionProf.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Stage/Professeur/Inscription/InscriptionProf.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="envoie_forum.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Stage/Forum/Formulaire_forum/envoie_forum.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.InscriptionProf.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.envoie_forum.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.envoie_forum.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.InscriptionProf.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f009d35-bd13-44e2-86fd-c863c6ba6b07" name="Default" comment="" />
+      <created>1466601386957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1466601386957</updated>
+      <workItem from="1466601388282" duration="2071000" />
+      <workItem from="1466603944921" duration="2883000" />
+      <workItem from="1466666334272" duration="14344000" />
+      <workItem from="1466686406612" duration="2999000" />
+      <workItem from="1466754125314" duration="13034000" />
+      <workItem from="1466864060852" duration="3355000" />
+      <workItem from="1466947025184" duration="10000" />
+      <workItem from="1466947060523" duration="70000" />
+      <workItem from="1466947165066" duration="7113000" />
+      <workItem from="1466956855319" duration="1053000" />
+      <workItem from="1466958027427" duration="644000" />
+      <workItem from="1466958686600" duration="1000" />
+      <workItem from="1466960260169" duration="1162000" />
+      <workItem from="1466961450551" duration="17000" />
+      <workItem from="1467011535186" duration="8822000" />
+      <workItem from="1467025205257" duration="6889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64467000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="793" y="0" width="814" height="867" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2907268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Maquette accueil/accueil.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Forum/config.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Forum/index.php</url>
+          <line>71</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Forum/index.php</url>
+          <line>70</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="35" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Forum/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForumEssais/index.php" />
+    <entry file="file://$PROJECT_DIR$/ForumEssais/index.php" />
+    <entry file="file://$PROJECT_DIR$/Professeur/Inscription/InscriptionProf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1734">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/Formulaire_forum/Reponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/Formulaire_forum/Forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/Formulaire_forum/Form_Forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/Formulaire_forum/Envois_Message_Forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/Formulaire_forum/envoie_forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/Formulaire_forum/Acces_Forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Professeur/Inscription/test_identifiant_prof.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maquette accueil/donnee.php" />
+    <entry file="file://$PROJECT_DIR$/Maquette accueil/accueil.php" />
+    <entry file="file://$PROJECT_DIR$/ForumEssais/index.php" />
+    <entry file="file://$PROJECT_DIR$/ForumEssais2/bbcode_function.php" />
+    <entry file="file://$PROJECT_DIR$/Forum/bbcode_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1467015128611" expanded="true" signature="594:620" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="651:680" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="797:813" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="842:860" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="889:906" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="1280:1306" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="1343:1372" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="1483:1499" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="1534:1552" ph="..." />
+            <marker date="1467015128611" expanded="true" signature="1587:1604" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/default/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/database.sql" />
+    <entry file="file://$PROJECT_DIR$/Professeur/Connexion/Test_connexion_prof.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="37" selection-start-line="22" selection-start-column="3" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/informations.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/delete_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <marker date="1467026542098" expanded="true" signature="167:253" ph="select count... categories" />
+            <marker date="1467026542098" expanded="true" signature="1069:1234" ph="select count... pm" />
+            <marker date="1467026542098" expanded="true" signature="1863:1904" ph="delete from " />
+            <marker date="1467026542098" expanded="true" signature="1925:1966" ph="delete from " />
+            <marker date="1467026542098" expanded="true" signature="1987:2066" ph="update categ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/delete_topic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="46" column="90" selection-start-line="46" selection-start-column="90" selection-end-line="46" selection-end-column="90" />
+          <folding>
+            <marker date="1467026542427" expanded="true" signature="200:351" ph="select count... topics" />
+            <marker date="1467026542427" expanded="true" signature="1195:1360" ph="select count... pm" />
+            <marker date="1467026542427" expanded="true" signature="2172:2209" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/edit_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101">
+          <caret line="52" column="64" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="64" />
+          <folding>
+            <marker date="1467026542267" expanded="true" signature="167:256" ph="select count... categories" />
+            <marker date="1467026542267" expanded="true" signature="1071:1236" ph="select count... pm" />
+            <marker date="1467026542267" expanded="true" signature="2180:2269" ph="update categ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/edit_message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-679">
+          <caret line="74" column="82" selection-start-line="74" selection-start-column="82" selection-end-line="74" selection-end-column="82" />
+          <folding>
+            <marker date="1467026542812" expanded="true" signature="243:474" ph="select count... topics" />
+            <marker date="1467026542812" expanded="true" signature="1455:1620" ph="select count... pm" />
+            <marker date="1467026542812" expanded="true" signature="2995:3093" ph="update topic... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/edit_profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="124" column="72" selection-start-line="124" selection-start-column="72" selection-end-line="124" selection-end-column="72" />
+          <folding>
+            <marker date="1467026542500" expanded="true" signature="791:956" ph="select count... pm" />
+            <marker date="1467026542500" expanded="true" signature="2459:2522" ph="select count... users" />
+            <marker date="1467026542500" expanded="true" signature="2624:2794" ph="update users... " />
+            <marker date="1467026542500" expanded="true" signature="4348:4439" ph="select usern... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <marker date="1467026541906" expanded="true" signature="277:375" ph="select passw... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/list_pm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+          <folding>
+            <marker date="1467026542858" expanded="true" signature="769:1132" ph="select m1.id... pm" />
+            <marker date="1467026542858" expanded="true" signature="1158:1523" ph="select m1.id... pm" />
+            <marker date="1467026542858" expanded="true" signature="1573:1738" ph="select count... pm" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/list_topics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-458">
+          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+          <folding>
+            <marker date="1467026541336" expanded="true" signature="207:362" ph="select count... categories" />
+            <marker date="1467026541336" expanded="true" signature="1118:1283" ph="select count... pm" />
+            <marker date="1467026541336" expanded="true" signature="2443:2728" ph="select t.id,... topics" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="96" column="51" selection-start-line="96" selection-start-column="51" selection-end-line="96" selection-end-column="51" />
+          <folding>
+            <marker date="1467026542218" expanded="true" signature="1404:1464" ph="select passw... users" />
+            <marker date="1467026542218" expanded="true" signature="3521:3686" ph="select count... pm" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/move_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <marker date="1467026542335" expanded="true" signature="275:407" ph="select count... categories" />
+            <marker date="1467026542335" expanded="true" signature="572:717" ph="update categ... " />
+            <marker date="1467026542335" expanded="true" signature="1024:1169" ph="update categ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/new_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <marker date="1467026541838" expanded="true" signature="794:959" ph="select count... pm" />
+            <marker date="1467026541838" expanded="true" signature="1833:1979" ph="insert into categories... " />
+            <marker date="1467026541838" expanded="true" signature="1890:1979" ph="select ifnul... categories" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/new_pm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+          <folding>
+            <marker date="1467026542174" expanded="true" signature="1401:1514" ph="select count... users" />
+            <marker date="1467026542174" expanded="true" signature="1444:1467" ph="select count... pm" />
+            <marker date="1467026542174" expanded="true" signature="1641:1857" ph="insert into pm... " />
+            <marker date="1467026542174" expanded="true" signature="2614:2779" ph="select count... pm" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/new_reply.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="52" column="79" selection-start-line="52" selection-start-column="79" selection-end-line="52" selection-end-column="79" />
+          <folding>
+            <marker date="1467026541580" expanded="true" signature="201:352" ph="select count... topics" />
+            <marker date="1467026541580" expanded="true" signature="1223:1388" ph="select count... pm" />
+            <marker date="1467026541580" expanded="true" signature="2427:2669" ph="insert into topics... " />
+            <marker date="1467026541580" expanded="true" signature="2513:2669" ph="select &quot;${$d... topics" />
+            <marker date="1467026541580" expanded="true" signature="2689:2759" ph="update topic... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/new_topic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-611">
+          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <folding>
+            <marker date="1467026542021" expanded="true" signature="205:280" ph="select count... categories" />
+            <marker date="1467026542021" expanded="true" signature="1079:1244" ph="select count... pm" />
+            <marker date="1467026542021" expanded="true" signature="2289:2515" ph="insert into topics... " />
+            <marker date="1467026542021" expanded="true" signature="2375:2515" ph="select &quot;${$i... topics" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+          <folding>
+            <marker date="1467026542578" expanded="true" signature="774:939" ph="select count... pm" />
+            <marker date="1467026542578" expanded="true" signature="1942:2015" ph="select usern... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/read_pm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
+          <folding>
+            <marker date="1467026541955" expanded="true" signature="756:821" ph="select title... pm" />
+            <marker date="1467026541955" expanded="true" signature="1025:1085" ph="update pm se... " />
+            <marker date="1467026541955" expanded="true" signature="1132:1192" ph="update pm se... " />
+            <marker date="1467026541955" expanded="true" signature="1239:1395" ph="select pm.ti... pm" />
+            <marker date="1467026541955" expanded="true" signature="1888:2106" ph="insert into pm... " />
+            <marker date="1467026541955" expanded="true" signature="2126:2201" ph="update pm se... " />
+            <marker date="1467026541955" expanded="true" signature="2727:2892" ph="select count... pm" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/read_topic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding>
+            <marker date="1467026541523" expanded="true" signature="176:382" ph="select count... topics" />
+            <marker date="1467026541523" expanded="true" signature="1204:1369" ph="select count... pm" />
+            <marker date="1467026541523" expanded="true" signature="2887:3062" ph="select t.id2... topics" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+          <folding>
+            <marker date="1467026541728" expanded="true" signature="776:941" ph="select count... pm" />
+            <marker date="1467026541728" expanded="true" signature="1998:2035" ph="select id, u... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801">
+          <caret line="37" column="67" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+          <folding>
+            <marker date="1467026542724" expanded="true" signature="1686:1737" ph="select id fr... users" />
+            <marker date="1467026542724" expanded="true" signature="1803:1823" ph="select id fr... users" />
+            <marker date="1467026542724" expanded="true" signature="1930:2093" ph="insert into users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stagetest.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1226">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/default/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3544">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="e#1991#2109#0#PHP" expanded="false" />
+            <marker date="1467032322322" expanded="true" signature="747:912" ph="select count... pm" />
+            <marker date="1467032322322" expanded="true" signature="2158:2431" ph="select c.id,... categories" />
+            <marker date="1467032322322" expanded="true" signature="2207:2274" ph="select count... topics" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
